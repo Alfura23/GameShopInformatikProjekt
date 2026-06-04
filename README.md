@@ -1,0 +1,1 @@
+Es kann sein, dass die Datenbank Anbindung nicht funktioniert, weil ich sie für meinen lokalen Rechner umschreiben musste. Falls dies der Fall ist können sie die dbConnection Datei aus der Vorlage kopieren und den dbname ändern zu GameShop. Ich hoffe, dann funktioniert es.
